@@ -1,0 +1,89 @@
+body{
+	background-image: url(../img/background.jpeg);
+	background-size: 100%;	
+}
+
+h1{
+	color: black;
+}
+
+h2{
+	padding: 10px;
+	color: #E9E974;
+}
+
+section {
+	margin-top: 25px;
+	/*border-style: solid;
+	border-radius: 25px;
+	border-color: #72533ebf;
+	background-color: #fff6;*/
+	/*opacity: 0.5;*/
+}
+
+p{
+	color: #FFFF00;
+	font-size: 35px;
+	padding: 5px;
+}
+
+.mytitle{
+	margin-top: auto;	
+	margin-top: 50px;
+	background-color: #72533ebf;
+	padding: 20px; 
+	border-radius: 25px;
+	color: #E9E974;
+	/*opacity: 0.5;*/
+}
+
+.mytitle h1{
+	color: #FFFF00;
+	font-size: 80px;
+	
+}
+
+.textAlign{
+	text-align: center !important;
+}
+
+
+.bottomBorder{
+	border-bottom-style: dotted;
+	border-radius: 1px;
+	border-color: #72533ebf;
+	padding: 5px;	
+}
+
+.borderstyle{
+	border-style: solid;
+	border-radius: 25px;
+	border-color: #72533ebf;
+	background-color: #fff6;
+	padding: 5px;
+	margin-top: 80px;
+}
+
+.img{
+	margin: auto;
+	padding: 5px;
+	width: 350px;
+	height: 600px;
+}
+/* Page ID's*/
+#wins{
+
+}
+
+#underscore{
+	color: #FFFF00;
+	padding: 20px;
+	font-size: 80px;
+
+}
+
+#correctGuess{
+	color: #FFFF00;
+	padding: 20px;
+	font-size: 80px;
+}
